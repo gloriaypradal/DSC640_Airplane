@@ -19,19 +19,18 @@ For more details see [GitHub Repository](https://github.com/gloriaypradal/DSC640
 
 ### Blog
 
-[](https://gloriaypradal8.wixsite.com/website/post/let-s-fly)
+[Personal Blog](https://gloriaypradal8.wixsite.com/website/post/let-s-fly)
 
 ### References
 
-[](https://www.statista.com/statistics/564769/airline-industry-number-of-flights/)
+[Statista](https://www.statista.com/statistics/564769/airline-industry-number-of-flights/)
 
-[](http://www.baaa-acro.com/statistics/crashs-rate-per-year)
+[BAAA](http://www.baaa-acro.com/statistics/crashs-rate-per-year)
 
-[](https://www-fars.nhtsa.dot.gov/Main/index.aspx)
+[NHTSA](https://www-fars.nhtsa.dot.gov/Main/index.aspx)
 
-[](http://www.baaa-acro.com/statistics/crashs-rate-per-year)
+[BAAA](http://www.baaa-acro.com/statistics/crashs-rate-per-year)
 
-[](https://github.com/fivethirtyeight/data/tree/master/airline-safety)
 
 ### Author
 
