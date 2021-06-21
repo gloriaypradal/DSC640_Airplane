@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Airlines Safety Facts
 
-You can use the [editor on GitHub](https://github.com/gloriaypradal/DSC640_Airplane/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This school project was made with the goal to inform the general NON informed audience about the facts of safety of flying the idea of this project came from recent news and information on different media about airplane crashes and the risk oif flying The data used for this project can be found on the word documents on this repository Jupyter Notebook was used to read, organize, cleaned and process the data as well as Tableau was used to create visualization of the data You will find a blog, a presentation and a Inforgraphic as a result of this project
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Libraries to use to run this code are
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import io
+import requests
+import BeautifulSoup
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Repository](https://github.com/gloriaypradal/DSC640_Airplane).
 
-### Jekyll Themes
+### Blog
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gloriaypradal/DSC640_Airplane/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[](https://gloriaypradal8.wixsite.com/website/post/let-s-fly)
 
-### Support or Contact
+### References
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[1](https://www.statista.com/statistics/564769/airline-industry-number-of-flights/)
+
+[2](http://www.baaa-acro.com/statistics/crashs-rate-per-year)
+
+[3](https://www-fars.nhtsa.dot.gov/Main/index.aspx)
+
+[4](http://www.baaa-acro.com/statistics/crashs-rate-per-year)
+
+[5](https://github.com/fivethirtyeight/data/tree/master/airline-safety)
+
+### Author
+
+Gloria Moore
