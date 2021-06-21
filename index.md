@@ -23,15 +23,15 @@ For more details see [GitHub Repository](https://github.com/gloriaypradal/DSC640
 
 ### References
 
-[1](https://www.statista.com/statistics/564769/airline-industry-number-of-flights/)
+[](https://www.statista.com/statistics/564769/airline-industry-number-of-flights/)
 
-[2](http://www.baaa-acro.com/statistics/crashs-rate-per-year)
+[](http://www.baaa-acro.com/statistics/crashs-rate-per-year)
 
-[3](https://www-fars.nhtsa.dot.gov/Main/index.aspx)
+[](https://www-fars.nhtsa.dot.gov/Main/index.aspx)
 
-[4](http://www.baaa-acro.com/statistics/crashs-rate-per-year)
+[](http://www.baaa-acro.com/statistics/crashs-rate-per-year)
 
-[5](https://github.com/fivethirtyeight/data/tree/master/airline-safety)
+[](https://github.com/fivethirtyeight/data/tree/master/airline-safety)
 
 ### Author
 
